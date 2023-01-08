@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { CarouselComponent } from './components/carousel/carousel.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { Slide1Component } from './components/slide1/slide1.component';
+import { Slide2Component } from './components/slide2/slide2.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CarouselComponent,
     ContactComponent,
-    Slide1Component
+    Slide1Component,
+    Slide2Component
   ],
   imports: [
     BrowserModule,
