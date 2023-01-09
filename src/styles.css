@@ -1,26 +1,24 @@
+.row{
+   padding-top:25%;
+}
+
 .icon{
    border-radius:50%;
+}
+
+.carousel-inner{
+   height:100vh;
+}
+
+.carousel-caption{
+   top:1.25rem;
+}
+
+#presentation{
+   font-size: 30px;
 }
 
 #avatar{
    width: auto;
    height: 400px;
-}
-
-.carousel-caption{
-   bottom: 25%;
-}
-
-#presentation{
-   font-size: 50px;
-}
-
-.text-container{
-   display: inline-block;
-   width: 49%;
-}
-
-.avatar-container{
-   display: inline-block;
-   width: 49%;
 }
